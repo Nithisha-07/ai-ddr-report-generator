@@ -1,0 +1,114 @@
+Detailed Diagnostic Report (DDR)
+
+1.  Property Issue Summary The inspection identified multiple dampness
+    and leakage issues in Flat No. 103, mainly at the skirting level of
+    rooms and walls, along with bathroom tile joint gaps and plumbing
+    issues.
+
+Key problems observed include: - Dampness at the skirting level in Hall,
+Bedroom, Master Bedroom, and Kitchen. - Wall dampness and efflorescence
+in the Master Bedroom. - Leakage observed in the parking ceiling below
+the flat. - Mild dampness in the common bathroom ceiling. - Tile joint
+gaps and plumbing-related issues in bathrooms. - Cracks observed on the
+external wall near the master bedroom.
+
+Thermal imaging analysis indicates temperature variations between damp
+and dry areas, with colder spots typically between 20.1°C and 23.4°C,
+suggesting possible moisture presence inside the walls or floor area.
+
+Overall inspection checklist rating shows moderate structural condition
+with leakage issues present.
+
+2.  Area-wise Observations
+
+Hall - Dampness observed at the skirting level of the hall wall. -
+Thermal images show lower temperature zones near the base of the wall,
+indicating moisture accumulation.
+
+Common Bedroom - Dampness detected at the skirting level of the bedroom
+wall. - Thermal images indicate cooler regions near the floor-wall
+junction, suggesting moisture seepage from the floor or adjacent areas.
+
+Master Bedroom - Dampness observed at the skirting level. - Wall
+dampness and efflorescence noted on the master bedroom wall surface. -
+Thermal images show temperature differences indicating moisture
+penetration inside the wall.
+
+Kitchen - Dampness observed at the skirting level of the kitchen wall. -
+Thermal imaging also shows cool zones along the wall base, indicating
+moisture accumulation.
+
+Bathrooms (Common Bathroom and Master Bedroom Bathroom) - Gaps observed
+between tile joints. - Gaps around Nahani trap joints and possible
+plumbing-related leakage. - Some tiles show hollowness, indicating weak
+bonding. - Water leakage observed around plumbing fixtures.
+
+External Wall - Cracks observed on the external wall near the master
+bedroom. - Possible pathways for water infiltration from outside.
+
+Parking Area - Leakage observed in the parking ceiling below Flat
+No.103, indicating water penetration through the slab.
+
+Common Bathroom Ceiling - Mild dampness observed on the ceiling,
+possibly due to leakage from an upper floor or plumbing line.
+
+3.  Probable Root Cause Based on inspection observations and thermal
+    analysis, the likely causes include:
+
+4.  Bathroom tile joint gaps allowing water penetration.
+
+5.  Possible concealed plumbing leakage.
+
+6.  Damaged waterproofing below bathroom flooring.
+
+7.  External wall cracks allowing rainwater infiltration.
+
+8.  Water migration through slab affecting parking ceiling.
+
+9.  Poor tile adhesion causing water accumulation beneath tiles.
+
+10. Severity Assessment (with reasoning) Severity Level: Moderate
+
+Reasoning: - Multiple rooms are affected by dampness and seepage. -
+Leakage has reached the parking ceiling, indicating deeper moisture
+movement. - Thermal imaging confirms moisture accumulation inside walls
+and skirting areas. - Structural RCC components show moderate crack
+conditions but no major corrosion or spalling.
+
+5.  Recommended Actions
+
+Bathroom Repairs - Remove and re-grout tile joints in the common and
+master bathrooms. - Repair gaps around the Nahani trap and drain
+outlets. - Inspect and repair concealed plumbing lines if leakage is
+detected.
+
+Waterproofing - Apply waterproofing treatment beneath bathroom
+flooring. - Seal all tile joints and plumbing penetrations.
+
+External Wall Repairs - Seal and repair cracks in the external wall near
+the master bedroom. - Apply external waterproof coating or crack
+sealant.
+
+Wall Treatment - Remove damaged plaster in damp areas. - Allow walls to
+dry and apply anti-damp waterproof plaster or coating.
+
+Parking Ceiling - Inspect the slab area above the parking ceiling. -
+Repair leakage source and re-plaster the affected ceiling.
+
+Preventive Measures - Regular inspection of plumbing fixtures and
+bathroom waterproofing. - Maintain proper sealing of tile joints.
+
+6.  Additional Notes Thermal inspection showed consistent temperature
+    differences between dry and damp areas, confirming the presence of
+    moisture inside the walls and floor junctions. Most dampness appears
+    concentrated at the skirting level, suggesting seepage from floor or
+    plumbing sources rather than roof leakage. Bathrooms appear to be
+    the primary moisture source affecting adjacent rooms.
+
+7.  Missing or Unclear Information
+
+-   Customer name, contact details, and property age.
+-   Exact plumbing layout or pipe routing inside walls/floor.
+-   Moisture percentage or humidity readings.
+-   Confirmation of waterproofing system used during construction.
+-   Details of thermal readings mapped to specific rooms.
